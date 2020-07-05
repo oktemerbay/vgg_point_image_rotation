@@ -1,0 +1,1 @@
+python point_image_rotation.py --folder_path=C:/Users/FOLDER/Desktop/imageAndModelFolder --model_file_name=model.json --rotation_degree=all
